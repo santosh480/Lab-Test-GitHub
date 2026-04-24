@@ -1,1 +1,2 @@
 Hello, I am Santosh. I am learning Git and GitHub.
+Skills: Python, Git, Machine Learning
