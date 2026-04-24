@@ -1,2 +1,1 @@
-Hello, my name is Santosh Kumar Dash.
-I am learning GitHub.
+Hello, I am Santosh. I am learning Git and GitHub.
